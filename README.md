@@ -11,7 +11,7 @@
 只有7七天时间，需要及时更新  
 
 - [token 生成地址](https://github.com/settings/tokens)
-- [token 更新地址](https://github.com/zjl-coder/blog/settings/secrets/actions)
+- [token 更新地址](https://github.com/zjl-coder/english/settings/secrets/actions)
 - 更新 Repository secrets 框的 ACCESS_TOKEN
 
 ## 组件
