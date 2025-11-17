@@ -1,0 +1,386 @@
+### 一、 服装与配饰
+
+**上装**
+*   T-shirt [ˈtiː ʃɜːrt] / Tee [tiː] T恤
+*   Shirt [ʃɜːrt] 衬衫
+*   Blouse [blaʊs] 女式衬衫
+*   Sweater [ˈswetər] 毛衣
+*   Hoodie [ˈhʊdi] 连帽衫
+*   Jacket [ˈdʒækɪt] 夹克
+*   Coat [koʊt] 外套，大衣
+
+**下装**
+*   Pants [pænts] / Trousers [ˈtraʊzərz] 裤子
+*   Jeans [dʒiːnz] 牛仔裤
+*   Shorts [ʃɔːrts] 短裤
+*   Skirt [skɜːrt] 半身裙
+
+**连衣裙与套装**
+*   Dress [dres] 连衣裙
+*   Jumpsuit [ˈdʒʌmpsuːt] 连体裤
+*   Suit [suːt] / Set [set] 套装
+
+**内衣与家居服**
+*   Underwear [ˈʌndərwer] 内衣
+*   Bra [brɑː] 文胸
+*   Pajamas [pəˈdʒɑːməz] 睡衣
+
+**配饰**
+*   Accessory [əkˈsesəri] 配饰
+*   Scarf [skɑːrf] 围巾
+*   Hat [hæt] 帽子
+*   Bag [bæɡ] 包
+*   Belt [belt] 腰带
+*   Jewelry [ˈdʒuːəlri] 珠宝首饰
+
+### 二、 物品与材质
+
+**商店区域与物品**
+*   Fitting Room [ˈfɪtɪŋ ruːm] / Dressing Room [ˈdresɪŋ ruːm] 试衣间
+*   Checkout [ˈtʃekaʊt] 收银台
+*   Counter [ˈkaʊntər] 柜台
+*   Rack [ræk] 货架，挂衣架
+*   Shelf [ʃelf] 架子，搁板
+*   Mirror [ˈmɪrər] 镜子
+*   Hanger [ˈhæŋər] 衣架
+*   Tag [tæɡ] 标签
+*   Price [praɪs] 价格
+*   Receipt [rɪˈsiːt] 收据
+*   Shopping Bag [ˈʃɑːpɪŋ bæɡ] 购物袋
+
+**材质**
+*   Cotton [ˈkɑːtn] 棉
+*   Linen [ˈlɪnɪn] 亚麻
+*   Silk [sɪlk] 丝绸
+*   Wool [wʊl] 羊毛
+*   Polyester [ˈpɑːliestər] 聚酯纤维
+*   Denim [ˈdenɪm] 牛仔布
+*   Leather [ˈleðər] 皮革
+
+### 三、 尺寸、颜色与版型
+
+**尺寸**
+*   Size [saɪz] 尺码
+*   Small [smɔːl] (S) 小号
+*   Medium [ˈmiːdiəm] (M) 中号
+*   Large [lɑːrdʒ] (L) 大号
+*   Extra Large [ˈekstrə lɑːrdʒ] (XL) 加大号
+*   Fit [fɪt] 合身度
+
+**颜色**
+*   Color [ˈkʌlər] 颜色
+*   Black [blæk] 黑色
+*   White [waɪt] 白色
+*   Blue [bluː] 蓝色
+*   Red [red] 红色
+*   Pattern [ˈpætərn] 图案
+*   Striped [straɪpt] 条纹的
+*   Floral [ˈflɔːrəl] 印花的
+*   Plain [pleɪn] 纯色的
+
+**版型与款式**
+*   Style [staɪl] 风格，款式
+*   Loose [luːs] 宽松的
+*   Tight [taɪt] 紧身的
+*   Slim [slɪm] 修身的
+*   Regular [ˈreɡjələr] 常规的
+
+### 四、 购物动作与互动
+
+**顾客动作**
+*   Browse [braʊz] 浏览
+*   Look for [lʊk fɔːr] 寻找
+*   Try on [traɪ ɒn] 试穿
+*   Put on [pʊt ɒn] 穿上
+*   Take off [teɪk ɔːf] 脱下
+*   Check [tʃek] 查看
+*   Decide [dɪˈsaɪd] 决定
+*   Pay [peɪ] 支付
+*   Return [rɪˈtɜːrn] 退货
+*   Exchange [ɪksˈtʃeɪndʒ] 换货
+
+**店员动作与用语**
+*   Welcome [ˈwelkəm] 欢迎
+*   Help [help] 帮助
+*   Recommend [ˌrekəˈmend] 推荐
+*   Suggest [səˈdʒest] 建议
+*   Ask [æsk] 询问
+*   Answer [ˈænsər] / Reply [rɪˈplaɪ] 回答
+*   Ring up [rɪŋ ʌp] 结账
+*   Pack [pæk] / Wrap [ræp] 打包，包装
+*   Hold [hoʊld] 预留
+
+### 五、 试穿与评价
+
+**试穿相关**
+*   How does it fit? 它合身吗？
+*   It's too big/small. 太大了/太小了。
+*   It's too long/short. 太长了/太短了。
+*   It's too tight/loose. 太紧了/太松了。
+*   It fits perfectly. 非常合身。
+
+**评价与感受**
+*   Like [laɪk] 喜欢
+*   Love [lʌv] 喜爱
+*   Dislike [dɪsˈlaɪk] 不喜欢
+*   Suit [suːt] 适合
+*   Look good [lʊk ɡʊd] 看起来不错
+*   Fashionable [ˈfæʃnəbl] / Stylish [ˈstaɪlɪʃ] 时尚的
+*   Comfortable [ˈkʌmftəbl] 舒适的
+*   Quality [ˈkwɑːləti] 质量
+
+---
+
+### 场景一：寻找特定商品
+
+**Characters:**
+*   **Anna:** 顾客
+*   **Ben:** 店员
+
+**Dialogue:**
+
+**Anna:** Hi there! I'm **looking for** a **blouse** for work. Do you have any recommendations?
+**你好！我想找一件上班穿的女士衬衫。你有什么推荐吗？**
+
+**Ben:** Of course! We have a new arrival of **silk blouses** over here. They're very **fashionable** and **comfortable**.
+**当然！我们这边新到了一批真丝女士衬衫。它们非常时尚和舒适。**
+
+**Anna:** Oh, this white one is nice. But I prefer something in **blue**. Do you have it in other **colors**?
+**哦，这件白色的不错。但我更喜欢蓝色的。你们有其他颜色吗？**
+
+**Ben:** Yes, we have **blue** and **black** as well. What **size** are you?
+**有的，我们还有蓝色和黑色。您穿什么尺码？**
+
+**Anna:** I usually wear a **medium**.
+**我通常穿中码。**
+
+**Ben:** Great. Let me check the **rack**... Here you go, a **medium** in **blue**.
+**好的。我看看货架……给您，一件蓝色的中码。**
+
+**Anna:** Thank you. Could you also tell me where the **dresses** are? I'd like to **browse** those later.
+**谢谢。你能告诉我连衣裙区在哪里吗？我待会儿想去看看。**
+
+**Ben:** They're right behind the **jeans** **section**. The **fitting room** is on your left when you need to **try anything on**.
+**就在牛仔裤区域后面。如果您需要试穿，试衣间在您的左手边。**
+
+---
+
+#### **语法讲解 (Scene 1)**
+
+1.  **时态:**
+    *   **I'm looking for... (现在进行时)** - 表示说话时正在进行的动作。
+        *   原型：`look for`
+    *   **Do you have...? (一般现在时)** - 询问当前的状态或事实。
+    *   **We have... (一般现在时)** - 表示商店通常拥有的商品。
+
+2.  **从句:**
+    *   **"I'm looking for a blouse [for work]."** - 这是一个介词短语作目的状语，可以看作一个简化的状语从句（`...that I can wear for work`）。
+    *   **"Could you tell me [where the dresses are]?"** - 这是一个宾语从句，整个 `where...` 部分作为 `tell me` 的宾语。
+
+3.  **形容词比较级:**
+    *   **"I prefer something in blue."** - 这里 `something` 是不定代词，`in blue` 是后置定语，描述 `something`。
+
+---
+
+### 场景二：在试衣间
+
+**Characters:**
+*   **Anna:** 顾客
+*   **Ben:** 店员
+
+**Dialogue:**
+
+**(Anna comes out of the fitting room)**
+**（安娜从试衣间出来）**
+
+**Anna:** Excuse me? This **blouse** is a bit **tight** under the arms. Do you have a **large**?
+**不好意思？这件女士衬衫腋下有点紧。你们有大码的吗？**
+
+**Ben:** Let me see if we have that **size** in stock... I'm sorry, we're out of **large** in blue. But we do have this **style** in **black** in a **large**. Would you like to **try** that **on**?
+**我看看这个款式我们还有没有库存……抱歉，蓝色的没有大码了。但这个款式黑色有大码。您想试穿一下吗？**
+
+**Anna:** Sure, I'll **try** the **black** one. Also, I **tried on** this **dress**, but it's **too long** for me.
+**好的，我试试黑色的。另外，我试了这条连衣裙，但对我来说太长了。**
+
+**Ben:** The **dress** looks great on you! If you **like** it, we can **hold** it for you while you decide. Alterations are also available.
+**这条连衣裙您穿上很好看！如果您喜欢，我们可以为您预留，等您做决定。我们也可以提供修改服务。**
+
+**Anna:** That's helpful, thank you! I'll take the **black blouse** in **large**. And I need to think about the **dress**.
+**那太好了，谢谢！我要这件黑色的女士衬衫，大码。连衣裙我再考虑一下。**
+
+---
+
+#### **语法讲解 (Scene 2)**
+
+1.  **时态:**
+    *   **"I tried on this dress..." (一般过去时)** - 表示在过去（刚刚在试衣间里）完成的动作。
+        *   原型：`try on`
+    *   **"We're out of..." (一般现在时)** - 表示当前缺货的状态。
+
+2.  **条件句 (First Conditional):**
+    *   **"If you like it, we can hold it for you..."** - 这是一个真实条件句，表示如果前件（`if you like it`）发生，后件（`we can hold it`）就会随之发生。
+        *   结构：`If + Present Simple, ... can/will + base verb`
+
+3.  **形容词与副词:**
+    *   **"a bit tight"** - `a bit` (副词) 修饰形容词 `tight`，表示程度。
+    *   **"too long"** - `too` (副词) 修饰形容词 `long`，表示“过分……”。
+
+---
+
+### 场景三：结账与售后
+
+**Characters:**
+*   **Anna:** 顾客
+*   **Ben:** 店员 (现在在收银台)
+
+**Dialogue:**
+
+**Ben:** Have you **decided** on everything?
+**您都决定好了吗？**
+
+**Anna:** Yes, I'll just take the **black blouse**. I've **decided** against the **dress** for now.
+**是的，我只要这件黑色的女士衬衫。连衣裙暂时先不要了。**
+
+**Ben:** Alright. How would you like to **pay**?
+**好的。您想如何付款？**
+
+**Anna:** By credit card, please.
+**信用卡。**
+
+**Ben:** (After processing the payment) Here is your **receipt**. Your **blouse** is in the **shopping bag**. Just so you know, we have a 30-day **return** policy with the **receipt**.
+**（处理完付款后）这是您的收据。您的衬衫在购物袋里。顺便告知您，我们凭收据有30天的退货政策。**
+
+**Anna:** Perfect. What about **exchanges**?
+**好的。那换货呢？**
+
+**Ben:** **Exchanges** are possible within 60 days. If the **item** you want isn't available, we can offer a **refund**.
+**60天内可以换货。如果您想要的商品没货了，我们可以退款。**
+
+**Anna:** That's clear. Thank you for your help!
+**明白了。谢谢你的帮助！**
+
+**Ben:** You're welcome! Hope to see you again.
+**不客气！欢迎再次光临。**
+
+---
+
+#### **语法讲解 (Scene 3)**
+
+1.  **时态:**
+    *   **"Have you decided...?" (现在完成时)** - 询问过去发生的动作对现在造成的影响（是否已做出决定）。
+        *   原型：`decide`
+    *   **"I've decided against the dress." (现在完成时)** - 表示已经做出决定，并且这个决定现在有效。
+    *   **"We have a 30-day return policy." (一般现在时)** - 陈述一个现有的规定或事实。
+
+2.  **被动语态:**
+    *   **"Exchanges are possible..."** - 被动语态，强调“换货”这个动作是“被允许的”，而不需要强调是谁允许的。
+        *   原型：`Someone makes exchanges possible.` -> `Exchanges are made possible.` (这里简化成了 `are possible`)
+
+3.  **条件句 (Zero Conditional):**
+    *   **"If the item you want isn't available, we can offer a refund."** - 这是一个真实条件句，用于描述普遍情况或政策。当某个条件满足时，结果总是如此。
+        *   结构：`If + Present Simple, ... Present Simple/can + base verb`
+
+---
+
+### 场景四：退货与换货
+
+**Characters:**
+*   **Customer:** David
+*   **Store Clerk:** Cindy
+
+**Dialogue:**
+
+**Cindy:** Hello! How can I help you today?
+**你好！今天有什么可以帮您的？**
+
+**David:** Hi. I'd like to **return** this **sweater**, please. I **received** it as a gift last week, but it's the wrong **size**.
+**你好，我想退回这件毛衣。它是上周别人送我的礼物，但尺码不对。**
+
+**Cindy:** No problem. Do you have the **receipt** with you?
+**没问题。您带收据了吗？**
+
+**David:** I'm afraid I don't. It was a gift.
+**抱歉，我没有。这是礼物。**
+
+**Cindy:** I see. In that case, I can offer you store credit or an **exchange** for something of equal value. Would you like to **browse** for a different **item**?
+**我明白了。这样的话，我可以为您提供商店积分或者等额换货。您想看看别的商品吗？**
+
+**David:** An **exchange** would be great. Actually, I saw a **jacket** on the **rack** near the entrance that I **liked**.
+**换货可以。其实，我在入口附近的货架上看到一件喜欢的夹克。**
+
+**Cindy:** The brown **leather** one? That's a great choice! Let me check if we have your **size**... Yes, we do. The **price** is actually a bit lower, so we can **refund** you the difference.
+**那件棕色的皮夹克吗？很好的选择！我查一下是否有您的尺码……有的。这件价格其实更低，我们可以退还您差价。**
+
+**David:** Perfect. Thank you for your help.
+**太好了。谢谢你的帮助。**
+
+**Cindy:** My pleasure. I'll just need your ID to process the **exchange** without a **receipt**.
+**不客气。办理无收据换货，我需要登记一下您的身份证件。**
+
+---
+
+#### **语法讲解 (Scene 4)**
+
+1.  **时态:**
+    *   **"I received it as a gift last week." (一般过去时)** - 明确表示过去某个时间点（上周）发生的动作。
+        *   原型：`receive`
+    *   **"I saw a jacket..." (一般过去时)** - 表示过去（在进店时）看到的动作。
+        *   原型：`see`
+    *   **"I'd like to return..." (`Would like` 表达愿望)** - 一种非常礼貌地表达愿望的形式，比 `I want` 更得体。
+
+2.  **介词短语:**
+    *   **"...on the rack near the entrance..."** - 连续使用介词短语 `on the rack` 和 `near the entrance` 来精确描述位置，是地道英语中常见的表达。
+
+3.  **情景用语:**
+    *   **"I'm afraid I don't."** - 用于礼貌地表达否定或坏消息，比直接说 "No" 更委婉。
+    *   **"In that case..."** - 用于根据前述信息引出下一步的行动或决定，非常流利。
+
+---
+
+### 场景五：为特殊场合购物
+
+**Characters:**
+*   **Shopper:** Emma
+*   **Personal Stylist:** Mike
+
+**Dialogue:**
+
+**Emma:** Hi, I have a wedding to attend next month, and I need to find a formal **dress**. I'm not sure what **style** would **suit** me.
+**你好，我下个月要参加一个婚礼，需要找一件正式的连衣裙。我不太确定什么款式适合我。**
+
+**Mike:** Congratulations! It would be my pleasure to help. Have you **thought about** what **color** or **fabric** you might **like**? For instance, **silk** and **linen** are both popular for summer weddings.
+**恭喜！我很乐意帮忙。您有考虑过可能喜欢什么颜色或面料吗？例如，丝绸和亚麻在夏季婚礼上都很受欢迎。**
+
+**Emma:** I **was thinking** of something in a **floral pattern**. I want to look **fashionable** but still feel **comfortable**.
+**我在考虑带印花图案的。我想看起来时尚，但同时也要感觉舒适。**
+
+**Mike:** Understood. Let me pull a few **dresses** for you to **try on**. We can start with these, and if nothing **fits** perfectly, I can **suggest** some **jumpsuits** which are also a great option.
+**明白。让我为您挑几件连衣裙来试穿。我们可以从这些开始，如果没有一件完全合身，我可以推荐一些连体裤，这也是个很好的选择。**
+
+**(After trying on)**
+**（试穿后）**
+
+**Emma:** This red **dress** is beautiful, but it's a bit **too tight** around the waist. The blue one **fits** better, but I'm not sure about the **color**.
+**这件红色的连衣裙很漂亮，但腰部有点太紧了。蓝色的那件更合身，但我不确定这个颜色。**
+
+**Mike:** The **blue** one really brings out your eyes. And remember, if you **love** the **style** but not the **fit**, we have tailors who can make adjustments.
+**蓝色这件真的很衬您的眼睛。而且请记住，如果您喜欢款式但不合身，我们有裁缝可以修改。**
+
+**Emma:** That's good to know. Thank you so much for all your **recommendations**!
+**这太好了。非常感谢你的所有推荐！**
+
+---
+
+#### **语法讲解 (Scene 5)**
+
+1.  **时态:**
+    *   **"I have a wedding to attend..." (一般现在时表将来)** - 用于表示按计划或安排要发生的事情。
+    *   **"I was thinking of..." (过去进行时)** - 这里不是表示过去，而是一种非常委婉地表达自己想法的方式，比 "I am thinking" 语气更弱，更显犹豫和开放态度。
+    *   **"I want to look..." (一般现在时)** - 表达当前的状态或愿望。
+
+2.  **形容词从句 (定语从句):**
+    *   **"...a wedding [I need to find a formal dress for]."** - 这是一个省略了关系代词 `that` 或 `which` 的定语从句，修饰 `wedding`。完整形式是 `a wedding that I need to find a formal dress for`。
+    *   **"...some jumpsuits [which are also a great option]."** - 这是一个由 `which` 引导的定语从句，对 `jumpsuits` 进行补充说明。
+
+3.  **动词不定式作目的状语:**
+    *   **"I need to find a formal dress [to attend]."** - 动词不定式 `to attend` 表示 `find a dress` 的目的。

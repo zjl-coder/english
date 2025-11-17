@@ -4,8 +4,44 @@ const menu = [
     link: '/living_room/',
   },
   {
+    text: 'bathroom and balcony',
+    link: '/bathroom_balcony/',
+  },
+  {
+    text: 'bedroom',
+    link: '/bedroom/',
+  },
+  {
+    text: 'kitchen',
+    link: '/kitchen/',
+  },
+  {
+    text: 'clothing store',
+    link: '/clothing_store/',
+  },
+  {
+    text: 'shoe store',
+    link: '/shoe_store/',
+  },
+  {
+    text: 'english lesson',
+    link: '/english_lesson/',
+  },
+  {
+    text: 'for vs to',
+    link: '/for_to/',
+  },
+  {
+    text: 'hiking',
+    link: '/hiking/',
+  },
+  {
     text: 'ordering food',
     link: '/ordering_food/',
+  },
+  {
+    text: 'productivity',
+    link: '/productivity/',
   },
 ];
 
