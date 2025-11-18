@@ -15,7 +15,7 @@ export default {
   mounted() {
     // 从 localStorage 读取显示状态
     const stored = localStorage.getItem('CONTENT_VISIBILITY');
-    this.isVisible = stored !== null ? JSON.parse(stored) : true;
+    this.isVisible = stored !== null ? JSON.parse(stored) : false;
 
     // 监听存储变化
     window.addEventListener('storage', this.handleStorageChange);
