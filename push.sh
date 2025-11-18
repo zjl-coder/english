@@ -5,6 +5,8 @@ git config user.email '1301034106@qq.com'
 
 npx prettier --write ./src/.vuepress/components/* ./src/.vuepress/menu/* ./src/.vuepress/*.js
 
+npm run build
+
 git add .
 git commit -m "feat: update"
 git push
