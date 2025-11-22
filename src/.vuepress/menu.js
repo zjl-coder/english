@@ -43,6 +43,22 @@ const menu = [
     text: 'productivity',
     link: '/productivity/',
   },
+  {
+    text: 'pass',
+    link: '/pass/',
+  },
+  {
+    text: 'predicate',
+    link: '/predicate/',
+  },
+  {
+    text: 'EF Lesson',
+    link: '/ef_lesson/',
+  },
+  {
+    text: 'Visit the company',
+    link: '/visit_the_company/',
+  },
 ];
 
 module.exports = { menu };
