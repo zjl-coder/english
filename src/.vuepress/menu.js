@@ -24,10 +24,6 @@ const menu = [
     link: '/shoe_store/',
   },
   {
-    text: 'english lesson',
-    link: '/english_lesson/',
-  },
-  {
     text: 'for vs to',
     link: '/for_to/',
   },
@@ -52,8 +48,12 @@ const menu = [
     link: '/predicate/',
   },
   {
-    text: 'EF Lesson',
+    text: 'EF lesson',
     link: '/ef_lesson/',
+  },
+  {
+    text: 'english lesson',
+    link: '/english_lesson/',
   },
   {
     text: 'Visit the company',

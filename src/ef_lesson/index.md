@@ -2,8 +2,6 @@
 
 ## EF Lesson
 
-# 🎓 **第一次上 EF 培训课 — 高频情景词汇（Markdown + ContentToggle 标签）**
-
 ## 1. **打招呼与自我介绍**
 
 * Hello / Hi <ContentToggle>[həˈləʊ] / [haɪ] 你好</ContentToggle>
