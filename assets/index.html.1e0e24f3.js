@@ -1,1 +1,0 @@
-import{_ as o,r as n,o as t,c,a,b as r}from"./app.6900e218.js";const s={},_=r("p",null,"test11",-1);function l(d,m){const e=n("HomeBackground");return t(),c("div",null,[_,a(e)])}var u=o(s,[["render",l],["__file","index.html.vue"]]);export{u as default};
