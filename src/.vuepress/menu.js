@@ -172,6 +172,14 @@ const menu = [
         text: '句子结构分析',
         link: '/predicate/sentence_structure_analysis/',
       },
+      {
+        text: '所有格',
+        link: '/predicate/possessive/',
+      },
+      {
+        text: '所属关系',
+        link: '/predicate/ownership/',
+      },
     ],
   },
 ];
