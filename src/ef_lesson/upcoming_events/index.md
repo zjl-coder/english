@@ -21,7 +21,7 @@
 
 --- 
 
-- And what are hobbies? What do you like to do for fun and in your free time? <ContentToggle>那你的爱好是什么呢？空闲时你喜欢做些什么来消遣呀？</ContentToggle>
+- And what are your hobbies? What do you like to do for fun and in your free time? <ContentToggle>那你的爱好是什么呢？空闲时你喜欢做些什么来消遣呀？</ContentToggle>
 
 - for fun <ContentToggle>为了消遣（表目的）</ContentToggle>
 - in your free time <ContentToggle>在你的空闲时间</ContentToggle>
@@ -31,7 +31,7 @@
 
 --- 
 
-- OK, OK, and what work do you do? You said you work in a  foreign company, yeah?       <ContentToggle>好的，好的，那你是做什么工作的呀？你说过你在外企上班，对吧？</ContentToggle>
+- OK, OK, and what work do you do? You said you work in a foreign company, yeah?       <ContentToggle>好的，好的，那你是做什么工作的呀？你说过你在外企上班，对吧？</ContentToggle>
 - What do you do? (最简洁口话化，省略work也可)
 - What work do you do? (强调从事的具体工作内容，比上一句更具体)
 
