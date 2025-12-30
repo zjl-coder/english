@@ -46,6 +46,12 @@ const menu = [
   {
     text: 'EF lesson',
     link: '/ef_lesson/',
+    children: [
+      {
+        text: 'Talking about upcoming events',
+        link: '/ef_lesson/upcoming_events/',
+      },
+    ],
   },
   {
     text: 'english lesson',
