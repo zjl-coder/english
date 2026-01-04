@@ -15,9 +15,38 @@
 - Would you not like to do sth.? 否定式
 - introduce oneself to sb.. 向某人自我介绍
 
+1. 简洁日常  
+
+Sure! I'm Archer. I've been focusing on learning English lately, especially on sentence structure analysis and oral practice. Nice to meet you! <ContentToggle>我最近一直在努力学习英语，特别是句子结构分析和口语练习。</ContentToggle>
+
+2. 礼貌正式  
+
+Of course. My name is Archer. I'm currently working on my English skills, including taking online courses and having one-on-one conversations with teachers. It's a pleasure to introduce myself to you. <ContentToggle>我目前正在努力提高英语水平，包括参加在线课程和与老师进行一对一交流。很高兴能向您介绍自己。</ContentToggle>
+
+3. 带互动感  
+
+Absolutely! I'm Archer. I'm really into English learning these days— I love breaking down sentence structures and practicing speaking. How about you? Do you also like learning languages? <ContentToggle>当然！我是Archer。最近我特别迷英语学习——我喜欢分析句子结构和练习口语。你呢？你也喜欢学习语言吗？</ContentToggle>
+
 ---
 
 - OK, no problem. And why are you learning English? <ContentToggle>好的，没问题，那你为什么在学习英语呢？</ContentToggle>
+
+1. 简洁兴趣版. 
+
+- I’m learning English because I really enjoy analyzing sentence structures, and I also want to improve my oral English skills. <ContentToggle>我学习英语是因为我真的很喜欢分析句子结构，而且我也想提高我的英语口语能力。</ContentToggle>
+
+- I’m learning English mainly to communicate more smoothly in the workplace. <ContentToggle>我学习英语主要是为了在工作中更顺畅地沟通。</ContentToggle>
+
+2. 目标导向版. 
+
+- I’ve been studying English to communicate more fluently in one-on-one conversations, and I hope to understand English articles better by mastering grammar rules.  <ContentToggle>我一直在学习英语，希望能在人际交往中更流利地交流，并且希望通过掌握语法规则来更好地理解英语文章。</ContentToggle>
+
+- The reason I’m studying English is that I want to improve my ability to communicate with colleagues and partners at work. <ContentToggle>我学习英语的原因是我想提高与同事和工作伙伴沟通的能力。</ContentToggle>
+
+3. 互动延伸版
+- Mainly because I love digging into how English sentences work, and I’m taking online courses to practice it. What about you? Do you learn English for any specific reason? <ContentToggle>主要是因为我喜欢研究英语句子的构成，而且我正在上在线课程练习。你呢？你学习英语有什么具体的原因吗？</ContentToggle>
+
+- I’ve been learning English to handle various workplace communication scenarios better. Do you use English for work-related conversations too? <ContentToggle>我一直在学习英语，以便更好地应对各种职场沟通场景。你工作中也会用英语交流吗？</ContentToggle>
 
 --- 
 
@@ -29,11 +58,35 @@
 - like to do sth.. 表示偶尔喜欢做某事，或特定场景下的喜好
 - like doing sth. 表长期，习惯性的喜好
 
+1. 简洁日常版. 
+
+- Well, I really enjoy digging into English sentence structures in my free time. Besides that, I like listening to business English podcasts for fun too. <ContentToggle>嗯，我闲暇时很喜欢研究英语句型结构。除此之外，我也喜欢听商务英语播客，纯粹是为了消遣。</ContentToggle>
+
+2. 详细充实版. 
+
+- My hobbies are mostly related to English learning and relaxing. I often spend my free time analyzing complex English sentences to figure out their grammar rules, and I also love watching short English workplace videos—they’re both fun and helpful for my work communication skills. Sometimes I just read light English articles to unwind. <ContentToggle>我的爱好主要与英语学习和放松有关。我经常利用空闲时间分析复杂的英语句子，研究它们的语法规则；我也喜欢看一些简短的英语职场视频——它们既有趣又有助于提升我的工作沟通能力。有时候，我也会读一些轻松的英语文章来放松身心。</ContentToggle>
+
+3. 互动延伸版. 
+
+- I have two main hobbies in my spare time. One is breaking down English sentence structures, which actually feels like a puzzle to me. The other is listening to business English podcasts. What about you? Do you have any hobbies that help with your work or study? <ContentToggle>我业余时间有两个主要爱好。一个是分析英语句型，这对我来说就像解谜一样。另一个是听商务英语播客。你呢？你有没有什么爱好能帮助你工作或学习？</ContentToggle>
+
 --- 
 
 - OK, OK, and what work do you do? You said you work in a foreign company, yeah?       <ContentToggle>好的，好的，那你是做什么工作的呀？你说过你在外企上班，对吧？</ContentToggle>
 - What do you do? (最简洁口话化，省略work也可)
 - What work do you do? (强调从事的具体工作内容，比上一句更具体)
+
+1. 简洁直白版. 
+
+- Yes, that’s right! I work as a programmer in a foreign company. <ContentToggle>是的，没错！我在一家外资公司做程序员。</ContentToggle>
+
+2. 补充细节版. 
+
+- Yeah, I do work for a foreign company. I’m a programmer there, mainly responsible for writing code, debugging programs and collaborating with the team on software development projects. <ContentToggle>是的，我在一家外资公司工作。我在那里担任程序员，主要负责编写代码、调试程序以及与团队合作进行软件开发项目。</ContentToggle>
+
+3. 互动延伸版. 
+
+- That’s correct! I’m a programmer at a foreign company—my daily work involves developing and maintaining software systems. Do you have any friends who work in the tech field? <ContentToggle>没错！我在一家外资公司做程序员，日常工作是开发和维护软件系统。你有朋友在科技行业工作吗？</ContentToggle>
 
 --- 
 
@@ -67,6 +120,21 @@
     - can：表直接的许可，语气更直白，二者在口语中可互换，但语气有细微区别。
 - 并列条件状语从句的省略
     - 当 and 连接两个主语一致、引导词相同的条件从句时，可省略后一个从句的引导词 if，让句子更简洁。
+
+1. 简洁确认版. 
+
+- Sure, got it! Thanks. <ContentToggle>好的，明白了！谢谢。</ContentToggle>
+
+2. 礼貌积极版. 
+
+- Alright, thank you so much. I’ll ask you whenever I have questions or need further explanations. <ContentToggle>好的，非常感谢。以后有任何问题或需要进一步解释的时候，我都会再问您。</ContentToggle>
+
+3. 轻松自然版. 
+
+- Ok, that’s great. I’ll let you know if anything isn’t clear. <ContentToggle>好的，太好了。如果还有什么不清楚的地方，我会告诉你。</ContentToggle>
+
+- 简洁版：Could you tell me what the word "sharks" means?
+- 完整版：Can you explain to me what the word "sharks" stands for?
 
 ---
 
@@ -110,6 +178,18 @@
     - Have you ever been there? / I don't ever eat fast food.
 - some/any 的用法差异：some 多用于肯定句，any 多用于疑问句和否定句；本句是疑问句，故用 any special activities，而非 some。
 
+1. 简洁日常版. 
+
+- Yeah, sometimes I go to tech-themed exhibitions in the city on weekends—they’re pretty interesting for a programmer like me. <ContentToggle>是的，我有时会在周末去城里参观一些科技主题的展览——对于像我这样的程序员来说，这些展览非常有趣。</ContentToggle>
+
+2. 详细充实版. 
+
+- Sure! I often join English corner gatherings in my city when I have time, which helps me practice my oral English for work. Besides, I also go to some tech fairs with my colleagues to learn about the latest software trends. <ContentToggle>当然！我经常在有空的时候参加所在城市的英语交流活动，这有助于我练习工作中的英语口语。此外，我还会和同事一起去参加一些科技展，了解最新的软件发展趋势。</ContentToggle>
+
+3. 互动延伸版. 
+
+- Oh, definitely! I usually take part in English conversation meetups in the city to polish my workplace communication skills, and sometimes I visit tech exhibitions too. Do you have any favorite special activities to do in your city? <ContentToggle>哦，当然！我通常会参加城里的英语会话聚会来提升职场沟通能力，有时候也会去参观科技展览。你所在的城市有什么特别喜欢的活动吗？</ContentToggle>
+
 --- 
 
 - Alright, and why do you do that? <ContentToggle>好的，那你为什么会做这些事呢？</ContentToggle>
@@ -121,9 +201,21 @@
     - ‌bored‌ 也是形容词，但主语是人，表示“感到无聊的”或“厌倦的”。
     - 例句：I was bored during the meeting.（开会时我觉得很无聊。）
 
+1. 简洁直白版. 
+
+Well, tech fairs help me keep up with the latest programming trends, and English corners are great for improving my workplace English. <ContentToggle>技术展会能帮助我了解最新的编程趋势，而英语角则对提高我的职场英语水平大有裨益。</ContentToggle>
+
+2. 详细充实版. 
+
+I do those activities for two main reasons. Tech exhibitions let me learn about new programming tools and technologies that make my work more efficient, and English corner gatherings give me a chance to practice oral English, which is super useful for communicating with foreign colleagues. <ContentToggle>我参加这些活动主要有两个原因。技术展览让我了解新的编程工具和技术，从而提高我的工作效率；英语交流会则让我有机会练习英语口语，这对于与外国同事沟通非常有用。</ContentToggle>
+
+3. 互动延伸版. 
+
+Oh, it’s because tech fairs keep me updated on the newest programming trends for my job, and English corners help me polish my workplace English skills. Do you ever take part in similar activities to improve your own skills? <ContentToggle>哦，这是因为技术展会能让我及时了解最新的编程趋势，而英语角则能帮助我提升职场英语水平。你有没有参加过类似的活动来提高自己的技能呢？</ContentToggle>
+
 --- 
 
-- We have some pictures on the screen, OK? So, would you like to look at these pictures, and tell me what kind of events you see in the pictures? Like activities or events? Ok?<ContentToggle>我们的屏幕上有一些图片，好吗？那么，你愿意看看这些图片，然后告诉我你在里面看到了什么样的活动或场合吗？比如各类活动或者事件之类的？好吗？</ContentToggle>
+- We have some pictures on the screen, OK? So, would you like to look at these pictures, and tell me what kind of events you see in the pictures? Like activities or events? Ok? <ContentToggle>我们的屏幕上有一些图片，好吗？那么，你愿意看看这些图片，然后告诉我你在里面看到了什么样的活动或场合吗？比如各类活动或者事件之类的？好吗？</ContentToggle>
 
 - 委婉请求并列疑问句：So, would you like to look at these pictures, and tell me what kind of events you see in the pictures?
     - 主句框架：would you like to look at...and (to) tell me...（would like to do 表委婉请求，and 连接两个并列不定式，后一个 to 省略）
@@ -182,6 +274,24 @@
 ---
 
 - Ok, great. Ok, now, do you understand the meaning of these words and phrases? Or must I explain anything to you? <ContentToggle>好的，非常好。现在，你明白这些单词和短语的意思了吗？或者说，我还需要给你解释什么内容吗？</ContentToggle>
+
+1. 简洁确认版. 
+
+- Yeah, I get all of them. No need to explain, thanks.
+
+- Yeah, got it! Thanks.
+
+2. 礼貌稳妥版. 
+
+- Yes, I understand the meanings of these words and phrases clearly. Thank you for asking.
+
+- All clear, thanks!
+
+3. 互动延伸版. 
+
+- I totally get them! But I’ll let you know right away if I need any further explanations later on. <ContentToggle>我完全明白！但如果以后还需要任何进一步的解释，我会立刻告诉你。</ContentToggle>
+
+- Totally get it! I’ll ask later if needed.
 
 --- 
 
@@ -251,11 +361,32 @@
 
 - Yes, OK, so, Archer, we've come to the end of our lesson, OK? Do you have any questions for me? Or must I explain anything to you? <ContentToggle>好的。那么，Archer，我们这节课就到此结束了，好吗？你还有什么问题要问我吗？或者说，还有什么内容需要我再给你解释一下吗？</ContentToggle>
 
+- have sth. for sb. 有某物是给 / 为了某人的
+- explain sth. to sb. 向某人解释某物
+
 - thank you.
 - thank you for your help.
 - thank you fot teaching me.
+
+- Got it! No questions for now, thanks.
+- All clear, thanks a lot for the lesson!
+- Nothing to ask right now, but I’ll let you know if I have doubts later, thanks!
 
 - OK, so Archer, I know it was your first lesson, so don't worry, OK? The more you practice, and the more you come to class, the easier it will become for you, OK? So, I would like you to work on your sentence. Structure. OK, and I'd like you to work on your vocabulary. OK?  all right. So Archer, thank you for being in my class. Nice to meet you. Bye. OK, thank you. Nice to meet you. Bye. <ContentToggle>好的，Archer，我知道这是你的第一节课，所以别担心，好吗？你练习得越多，来上课的次数越多，对你来说就会变得越容易，好吗？所以我希望你多钻研句子结构，好吗？还有，希望你多积累词汇。好吗？就这样。那么阿彻，谢谢你来上我的课。很高兴认识你。再见。好的，谢谢你。很高兴认识你。再见。</ContentToggle>
 
 - 比较级句式 The more you practice, and the more you come to class, the easier it will become for you, OK?
     - 结构：the + 比较级..., the + 比较级...（越……，越……），前半句是条件，后半句是结果；两个 the more 引导的并列条件从句，用 and 连接，后半句用一般将来时表未来的变化趋势。
+
+### 课堂告别场景常用口语短句清单
+##### 无疑问，直接感谢告别
+- Got it, thanks for the lesson!
+- All clear now, have a nice day!
+- No questions, thank you so much!
+##### 有小疑问，约定后续咨询
+- Nothing right now, but I’ll reach out if I have questions later.
+- I think I’m good for now, but I might ask you tomorrow if needed.
+- No questions at the moment, thanks—I’ll let you know if anything comes up.
+##### 礼貌表达收获，友好告别
+- Great lesson today, thanks a lot!
+- I learned a lot, thank you—see you next time!
+- Really helpful class, thanks, have a good one!
