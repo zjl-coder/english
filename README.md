@@ -50,7 +50,16 @@
 <TitleList></TitleList>
 ```
 
-#### 容器
+#### 内容屏蔽容器
+```html
+<!-- 在文件第一行，控制全局显示或隐藏 -->
+<EyeToggle/>
+<!-- 在行内，控制当前内容显示或隐藏 -->
+<ContentToggle>被隐藏内容</ContentToggle>
+```
+
+
+#### [容器](https://ecosystem.vuejs.press/zh/themes/default/markdown.html)
 ```md
 ::: <type> [title]
 [content]

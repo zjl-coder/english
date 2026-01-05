@@ -58,7 +58,7 @@ export default {
 
 <style lang="scss" scoped>
 .inline-eye-toggle {
-  display: inline;
-  float: right;
+  display: inline-block;
+  margin-left: 10px;
 }
 </style>

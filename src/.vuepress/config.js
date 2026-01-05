@@ -11,8 +11,8 @@ const { navbar } = require('./navbar');
 
 module.exports = {
   lang: 'zh-CN',
-  title: '情景英语',
-  description: '情景英语',
+  title: 'Situation',
+  description: 'Situational English',
   base: '/english/',
   dest: 'docs',
   open: true,
@@ -25,7 +25,7 @@ module.exports = {
     searchPlugin({
       locales: {
         '/': {
-          placeholder: '搜索',
+          placeholder: 'search',
         },
         '/zh/': {
           placeholder: '搜索',
