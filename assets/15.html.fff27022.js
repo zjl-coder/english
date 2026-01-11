@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3ce8d18e","path":"/3500_vocabularies/15.html","title":"15. A Journey across Canada \u6A2A\u7A7F\u52A0\u62FF\u5927\u7684\u65C5\u884C","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768140542000},"filePathRelative":"3500_vocabularies/15.md"}');export{e as data};

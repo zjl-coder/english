@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-43bf67cf","path":"/3500_vocabularies/1.html","title":"Fall in Love with English \u7231\u4E0A\u82F1\u8BED","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768140542000},"filePathRelative":"3500_vocabularies/1.md"}');export{e as data};

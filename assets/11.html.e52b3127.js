@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-36156f12","path":"/3500_vocabularies/11.html","title":"11. An Interesting Festival \u6709\u8DA3\u7684\u8282\u65E5","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768140542000},"filePathRelative":"3500_vocabularies/11.md"}');export{e as data};

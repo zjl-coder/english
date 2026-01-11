@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-37ca47b1","path":"/3500_vocabularies/12.html","title":"12. Balanced Diet \u5E73\u8861\u81B3\u98DF","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768142003000},"filePathRelative":"3500_vocabularies/12.md"}');export{e as data};

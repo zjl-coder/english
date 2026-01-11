@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6cb082f2","path":"/3500_vocabularies/22.html","title":"22. Sightseeing in the United Kingdom \u89C2\u5149\u8054\u5408\u738B\u56FD","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768142003000},"filePathRelative":"3500_vocabularies/22.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-397f2050","path":"/3500_vocabularies/13.html","title":"13. Sailing Home \u5212\u8239\u56DE\u5BB6","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768142003000},"filePathRelative":"3500_vocabularies/13.md"}');export{e as data};

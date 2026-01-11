@@ -1,1 +1,0 @@
-const e=JSON.parse(`{"key":"v-76ed96ac","path":"/3500_vocabularies/28.html","title":"28. Let's Help Adolescents \u5E2E\u52A9\u9752\u5C11\u5E74","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768140542000},"filePathRelative":"3500_vocabularies/28.md"}`);export{e as data};

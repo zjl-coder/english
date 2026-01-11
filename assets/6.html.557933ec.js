@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-4c47a2ea","path":"/3500_vocabularies/6.html","title":"6. A Brave Maid \u52C7\u6562\u7684\u5973\u4EC6","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768140542000},"filePathRelative":"3500_vocabularies/6.md"}');export{a as data};

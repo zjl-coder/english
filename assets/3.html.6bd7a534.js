@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4729190d","path":"/3500_vocabularies/3.html","title":"A Hard Trip \u2F00\u6B21\u2F9F\u82E6\u7684\u65C5\u2F8F","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768142003000},"filePathRelative":"3500_vocabularies/3.md"}');export{e as data};

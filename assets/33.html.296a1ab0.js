@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-b968d25c","path":"/3500_vocabularies/33.html","title":"33. Mark and a Seal \u9A6C\u514B\u548C\u6D77\u8C79","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768140542000},"filePathRelative":"3500_vocabularies/33.md"}');export{a as data};
