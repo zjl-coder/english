@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-42075b6b","path":"/3500_vocabularies/18.html","title":"18. Chaplin - A Great Master of Humour \u5E7D\u9ED8\u5927\u5E08\u5353\u522B\u6797","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768140542000},"filePathRelative":"3500_vocabularies/18.md"}');export{e as data};

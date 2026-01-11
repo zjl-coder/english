@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-78a26f4b","path":"/3500_vocabularies/29.html","title":"29. Refresh Our Environment \u6062\u590D\u73AF\u5883\u751F\u673A","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768140542000},"filePathRelative":"3500_vocabularies/29.md"}');export{e as data};

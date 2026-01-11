@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-59d96f94","path":"/3500_vocabularies/40.html","title":"40. A Sly Murder \u4E00\u5B97\u72E1\u733E\u7684\u8C0B\u6740\u6848","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768140542000},"filePathRelative":"3500_vocabularies/40.md"}');export{e as data};

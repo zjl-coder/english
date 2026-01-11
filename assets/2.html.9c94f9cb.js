@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4574406e","path":"/3500_vocabularies/2.html","title":"Different Countries Have Different Kinds of Englishes \u4E0D\u540C\u7684\u56FD\u5BB6\u6709\u4E0D\u540C\u7684\u82F1\u8BED","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768140542000},"filePathRelative":"3500_vocabularies/2.md"}');export{e as data};
