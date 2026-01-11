@@ -1,11 +1,11 @@
 const navbar = [
   {
     text: 'home',
-    link: '/home/living_room/',
+    link: '/home/',
   },
   {
     text: '3500 vocabularies',
-    link: '/3500_vocabularies/1.md/',
+    link: '/3500_vocabularies/',
   },
   {
     text: 'predicate',
