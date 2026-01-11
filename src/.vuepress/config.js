@@ -53,4 +53,4 @@ module.exports = {
     nprogressPlugin(),
   ],
 };
-// __dirname  blog/src/.vuepress
+// __dirname  english/src/.vuepress

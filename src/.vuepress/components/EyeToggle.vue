@@ -45,12 +45,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss" scoped>
-.eye-toggle {
-  position: fixed;
-  left: 50%;
-  top: 16px;
-  z-index: 99;
-}
-</style>
