@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b5ff211e","path":"/3500_vocabularies/34.html","title":"34. Helping the Remote Village \u63F4\u52A9\u5C71\u6751","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768177781000},"filePathRelative":"3500_vocabularies/34.md"}');export{e as data};

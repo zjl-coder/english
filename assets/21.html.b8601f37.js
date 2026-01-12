@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-6afbaa53","path":"/3500_vocabularies/21.html","title":"21. A Strange Disease \u5947\u602A\u7684\u75BE\u75C5","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768177781000},"filePathRelative":"3500_vocabularies/21.md"}');export{a as data};

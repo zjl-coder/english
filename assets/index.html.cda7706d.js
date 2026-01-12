@@ -1,1 +1,0 @@
-import{_ as a,o as r,c,b as e,d as t}from"./app.5033cd99.js";const o={},s=e("h1",{id:"_3500-vocabularies",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_3500-vocabularies","aria-hidden":"true"},"#"),t(" 3500 vocabularies")],-1),_=[s];function n(d,i){return r(),c("div",null,_)}var h=a(o,[["render",n],["__file","index.html.vue"]]);export{h as default};

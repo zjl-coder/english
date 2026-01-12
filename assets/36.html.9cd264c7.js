@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-af2bbea2","path":"/3500_vocabularies/36.html","title":"36. Immigrate to America \u79FB\u6C11\u7F8E\u56FD","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768177781000},"filePathRelative":"3500_vocabularies/36.md"}');export{e as data};

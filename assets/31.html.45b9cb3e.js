@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-c03c34d8","path":"/3500_vocabularies/31.html","title":"31. Defeat Disability \u6218\u80DC\u6B8B\u75BE","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768142003000},"filePathRelative":"3500_vocabularies/31.md"}');export{e as data};

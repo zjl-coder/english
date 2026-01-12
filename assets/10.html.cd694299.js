@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-34609673","path":"/3500_vocabularies/10.html","title":"10. My First Band \u6211\u7684\u7B2C\u4E00\u652F\u4E50\u961F","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768177781000},"filePathRelative":"3500_vocabularies/10.md"}');export{e as data};

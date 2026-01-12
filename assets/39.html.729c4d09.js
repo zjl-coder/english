@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-a4eeaae8","path":"/3500_vocabularies/39.html","title":"39. Pronunciation and Status \u53E3\u97F3\u4E0E\u8EAB\u4EFD","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768142003000},"filePathRelative":"3500_vocabularies/39.md"}');export{a as data};

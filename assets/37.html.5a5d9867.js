@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-abc20d64","path":"/3500_vocabularies/37.html","title":"37. Be Careful about Cloning \u8C28\u614E\u5BF9\u5F85\u514B\u9686","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768142003000},"filePathRelative":"3500_vocabularies/37.md"}');export{e as data};
