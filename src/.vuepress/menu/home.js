@@ -44,16 +44,6 @@ const home = [
     link: '/home/pass/',
   },
   {
-    text: 'EF lesson',
-    link: '/home/ef_lesson/',
-    children: [
-      {
-        text: 'Talking about upcoming events',
-        link: '/home/ef_lesson/upcoming_events/',
-      },
-    ],
-  },
-  {
     text: 'english lesson',
     link: '/home/english_lesson/',
   },

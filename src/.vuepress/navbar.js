@@ -4,6 +4,10 @@ const navbar = [
     link: '/home/',
   },
   {
+    text: 'EF Lesson',
+    link: '/ef_lesson/',
+  },
+  {
     text: '3500 vocabularies',
     link: '/3500_vocabularies/',
   },

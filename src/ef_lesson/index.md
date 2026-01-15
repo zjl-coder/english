@@ -2,7 +2,7 @@
 
 ## EF Lesson
 
-## 1. **打招呼与自我介绍**
+## 1. Greeting and self-introduction <ContentToggle>打招呼与自我介绍</ContentToggle>
 
 * Hello / Hi <ContentToggle>[həˈləʊ] / [haɪ] 你好</ContentToggle>
 * My name is... <ContentToggle>[maɪ neɪm ɪz] 我的名字是...</ContentToggle>
@@ -13,9 +13,9 @@
 
 ---
 
-## 2. **个人背景信息**
+## 2. Personal background information <ContentToggle>个人背景信息</ContentToggle>
 
-### **国籍与家乡**
+### Nationality and hometown <ContentToggle>国籍与家乡</ContentToggle>
 
 * Country <ContentToggle>[ˈkʌntri] 国家</ContentToggle>
 * City <ContentToggle>[ˈsɪti] 城市</ContentToggle>
@@ -24,7 +24,7 @@
 * Where are you from? <ContentToggle>[weər ɑː ju frɒm] 你来自哪里？</ContentToggle>
 * Hometown <ContentToggle>[ˈhəʊmtaʊn] 家乡</ContentToggle>
 
-### **居住与工作**
+### Living and working <ContentToggle>居住与工作</ContentToggle>
 
 * Live <ContentToggle>[lɪv] 居住</ContentToggle>
 * Work <ContentToggle>[wɜːk] 工作</ContentToggle>
@@ -40,7 +40,7 @@
 
 ---
 
-## 3. **兴趣爱好**
+## 3. Hobbies <ContentToggle>兴趣爱好</ContentToggle>
 
 * Like <ContentToggle>[laɪk] 喜欢</ContentToggle>
 * Enjoy <ContentToggle>[ɪnˈdʒɔɪ] 享受 / 喜欢</ContentToggle>
@@ -58,9 +58,9 @@
 
 ---
 
-## 4. **学习相关**
+## 4. Learning related <ContentToggle>学习相关</ContentToggle>
 
-### **学习目标与原因**
+### Learning objectives and reasons <ContentToggle>学习目标与原因</ContentToggle>
 
 * Learn <ContentToggle>[lɜːn] 学习</ContentToggle>
 * English <ContentToggle>[ˈɪŋɡlɪʃ] 英语</ContentToggle>
@@ -72,7 +72,7 @@
 * For travel <ContentToggle>[fə ˈtrævl] 为了旅行</ContentToggle>
 * For fun <ContentToggle>[fə fʌn] 为了兴趣</ContentToggle>
 
-### **课堂与课程**
+### Classroom and Curriculum <ContentToggle>课堂与课程</ContentToggle>
 
 * Class <ContentToggle>[klɑːs] 班级 / 课程</ContentToggle>
 * EF course <ContentToggle>[ˌiː ˈef kɔːs] EF 课程</ContentToggle>
@@ -87,9 +87,9 @@
 
 ---
 
-## 5. **交流与互动**
+## 5. Communication and interaction <ContentToggle>交流与互动</ContentToggle>
 
-### **基础交流用语**
+### Basic communication terms <ContentToggle>基础交流用语</ContentToggle>
 
 * Sorry / Excuse me <ContentToggle>[ˈsɒri] / [ɪkˈskjuːs mi] 对不起 / 劳驾</ContentToggle>
 * Pardon? <ContentToggle>[ˈpɑːdn] 请再说一遍？</ContentToggle>
@@ -99,7 +99,7 @@
 * How do you say ... in English? <ContentToggle>[haʊ du ju seɪ ... ɪn ˈɪŋɡlɪʃ] …用英语怎么说？</ContentToggle>
 * Can you help me? <ContentToggle>[kæn ju help mi] 你能帮我吗？</ContentToggle>
 
-### **鼓励与赞同**
+### Encouragement and approval <ContentToggle>鼓励与赞同</ContentToggle>
 
 * Good! <ContentToggle>[ɡʊd] 好！</ContentToggle>
 * Great! <ContentToggle>[ɡreɪt] 太棒了！</ContentToggle>
@@ -109,9 +109,9 @@
 
 ---
 
-## 6. **动作与指令**
+## 6. Actions and Instructions <ContentToggle>动作与指令</ContentToggle>
 
-### **课堂常见动作**
+### Common classroom actions <ContentToggle>课堂常见动作</ContentToggle>
 
 * Listen <ContentToggle>[ˈlɪsn] 听</ContentToggle>
 * Speak <ContentToggle>[spiːk] 说</ContentToggle>
@@ -128,9 +128,9 @@
 
 ---
 
-# 🎯 **7. 描述个人情况与感受**
+# 7. Describe your personal situation and feelings <ContentToggle>描述个人情况与感受</ContentToggle>
 
-### **性格与外貌（简单）**
+### Personality and appearance (simple) <ContentToggle>性格与外貌（简单）</ContentToggle>
 
 * Friendly <ContentToggle>[ˈfrendli] 友好的</ContentToggle>
 * Outgoing <ContentToggle>[ˈaʊtɡəʊɪŋ] 外向的</ContentToggle>
@@ -141,7 +141,7 @@
 * Long hair <ContentToggle>[lɒŋ heə] 长头发</ContentToggle>
 * Short hair <ContentToggle>[ʃɔːt heə] 短头发</ContentToggle>
 
-### **感受**
+### Feeling <ContentToggle>感受</ContentToggle>
 
 * Happy <ContentToggle>[ˈhæpi] 开心的</ContentToggle>
 * Excited <ContentToggle>[ɪkˈsaɪtɪd] 兴奋的</ContentToggle>
@@ -153,9 +153,9 @@
 
 ---
 
-# 🎯 **8. 课堂互动与学习**
+# 8. Classroom interaction and learning <ContentToggle>课堂互动与学习</ContentToggle>
 
-### **理解与回应**
+### Understanding and Response <ContentToggle>理解与回应</ContentToggle>
 
 * I understand. <ContentToggle>[aɪ ˌʌndəˈstænd] 我明白了。</ContentToggle>
 * I don't know. <ContentToggle>[aɪ dəʊnt nəʊ] 我不知道。</ContentToggle>
@@ -165,7 +165,7 @@
 * I disagree. <ContentToggle>[aɪ ˌdɪsəˈɡriː] 我不同意。</ContentToggle>
 * Can you speak slowly? <ContentToggle>[kæn ju spiːk ˈsləʊli] 你能慢一点说吗？</ContentToggle>
 
-### **讨论课程内容**
+### Discussing course content <ContentToggle>讨论课程内容</ContentToggle>
 
 * Easy <ContentToggle>[ˈiːzi] 容易的</ContentToggle>
 * Difficult / Hard <ContentToggle>[ˈdɪfɪkəlt] / [hɑːd] 困难的</ContentToggle>
@@ -177,15 +177,7 @@
 
 ---
 
-# 🎯 **9. 数字、时间与日期**
-
-### **数字（1–20）**
-
-One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty.
-
-（此部分无英标/中文，不需要 ContentToggle）
-
-### **时间**
+# 9. Time and Date <ContentToggle>时间与日期</ContentToggle>
 
 * Now <ContentToggle>[naʊ] 现在</ContentToggle>
 * Today <ContentToggle>[təˈdeɪ] 今天</ContentToggle>
@@ -198,9 +190,9 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 
 ---
 
-# 🎯 **10. 常见地点与方位**
+# 10. Common locations and directions <ContentToggle>常见地点与方位</ContentToggle>
 
-### **地点**
+### Place <ContentToggle>地点</ContentToggle>
 
 * School <ContentToggle>[skuːl] 学校</ContentToggle>
 * EF center <ContentToggle>[ˌiː ˈef ˈsentə] EF中心</ContentToggle>
@@ -210,7 +202,7 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 * Supermarket <ContentToggle>[ˈsuːpəmɑːkɪt] 超市</ContentToggle>
 * Bank <ContentToggle>[bæŋk] 银行</ContentToggle>
 
-### **方位介词**
+### Prepositions of location <ContentToggle>方位介词</ContentToggle>
 
 * In <ContentToggle>[ɪn] 在…里面</ContentToggle>
 * On <ContentToggle>[ɒn] 在…上面</ContentToggle>
@@ -220,7 +212,7 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 
 ---
 
-# 🎯 **11. 常用动词短语**
+# 11. Common verb phrases <ContentToggle>常用动词短语</ContentToggle>
 
 * Come from <ContentToggle>[kʌm frɒm] 来自</ContentToggle>
 * Live in <ContentToggle>[lɪv ɪn] 居住在</ContentToggle>
@@ -234,9 +226,9 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 
 ---
 
-# 🎯 **12. 延续对话的实用短句**
+# 12. Useful short phrases to continue a conversation <ContentToggle>延续对话的实用短句</ContentToggle>
 
-### **询问更多细节**
+### Ask for more details <ContentToggle>询问更多细节</ContentToggle>
 
 * Really? <ContentToggle>[ˈriːəli] 真的吗？</ContentToggle>
 * Why? <ContentToggle>[waɪ] 为什么？</ContentToggle>
@@ -244,7 +236,7 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 * Tell me more. <ContentToggle>[tel mi mɔː] 多跟我讲讲。</ContentToggle>
 * What kind of...? <ContentToggle>[wɒt kaɪnd ɒv] 哪种…？</ContentToggle>
 
-### **回应并连接话题**
+### Respond and connect topics <ContentToggle>回应并连接话题</ContentToggle>
 
 * That's great! <ContentToggle>[ðæts ɡreɪt] 太棒了！</ContentToggle>
 * That's interesting. <ContentToggle>[ðæts ˈɪntrəstɪŋ] 真有趣。</ContentToggle>
@@ -254,11 +246,11 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 
 ---
 
-### **EF日常高频情景对话**
+### EF's daily high-frequency situational dialogues <ContentToggle>EF日常高频情景对话</ContentToggle>
 
 ---
 
-#### **场景一：课前初次见面**
+#### Scene 1: First meeting before class <ContentToggle>场景一：课前初次见面</ContentToggle>
 
 **A:** Hi, my name is Alex. What's your name?  
 <ContentToggle>你好，我叫Alex。你叫什么名字？</ContentToggle>
@@ -281,12 +273,11 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 **A:** That's great! Good luck to us!  
 <ContentToggle>太棒了！祝我们好运！</ContentToggle>
 
-**对话要点：**  
-<ContentToggle>打招呼，交换姓名，询问家乡、工作和学习目标。</ContentToggle>
+**Key points of the dialogue:**  <ContentToggle>对话要点</ContentToggle>
 
 ---
 
-#### **场景二：交流兴趣爱好**
+#### Scene 2: Exchanging hobbies <ContentToggle>场景二：交流兴趣爱好</ContentToggle>
 
 **A:** So Sarah, what do you like to do in your free time?  
 <ContentToggle>Sarah，你空闲时间喜欢做什么？</ContentToggle>
@@ -306,12 +297,9 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 **B:** That sounds like a great idea!  
 <ContentToggle>这主意听起来棒极了！</ContentToggle>
 
-**对话要点：**  
-<ContentToggle>讨论爱好，发现共同点，提出未来可能的社交活动。</ContentToggle>
-
 ---
 
-#### **场景三：在课堂上 - 小组练习**
+#### Scenario 3: In the Classroom - Group Practice <ContentToggle>场景三：在课堂上 - 小组练习</ContentToggle>
 
 **Teacher:** Okay everyone, please work in pairs and discuss your favorite holiday.  
 <ContentToggle>好了各位，请两人一组，讨论一下你们最喜欢的节日。</ContentToggle>
@@ -331,12 +319,9 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 **A:** Sure. We eat dumplings, give lucky money, and...  
 <ContentToggle>当然。我们吃饺子、发红包，还有...</ContentToggle>
 
-**对话要点：**  
-<ContentToggle>遵循课堂指令，询问和描述节日，请求更多信息。</ContentToggle>
-
 ---
 
-#### **场景四：寻求帮助与澄清**
+#### Scenario 4: Seeking Help and Clarification <ContentToggle>场景四：寻求帮助与澄清</ContentToggle>
 
 **B:** Excuse me, teacher. I have a question.  
 <ContentToggle>劳驾，老师。我有个问题。</ContentToggle>
@@ -359,12 +344,9 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 **B:** Thank you.  
 <ContentToggle>谢谢。</ContentToggle>
 
-**对话要点：**  
-<ContentToggle>礼貌地打断，询问单词含义，请求重复以确认理解。</ContentToggle>
-
 ---
 
-#### **场景五：课后道别与计划**
+#### Scene 5: Saying Goodbye and Planning After Class <ContentToggle>场景五：课后道别与计划</ContentToggle>
 
 **A:** That was a good class.  
 <ContentToggle>这堂课真不错。</ContentToggle>
@@ -384,12 +366,12 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 **B:** Bye!  
 <ContentToggle>再见！</ContentToggle>
 
-**对话要点：**  
+**Key points of the dialogue:**  <ContentToggle>对话要点：</ContentToggle>
 <ContentToggle>表达对课程的看法，确认未来的计划，礼貌地道别。</ContentToggle>
 
 ---
 
-#### **场景六：偶遇与闲聊**
+#### Scene Six: Chance Encounters and Casual Chats <ContentToggle>场景六：偶遇与闲聊</ContentToggle>
 
 **A:** Hey Sarah! Fancy meeting you here!  
 <ContentToggle>嘿Sarah！真没想到在这儿碰到你！</ContentToggle>
@@ -411,11 +393,11 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 
 ---
 
-### **EF日常高频情景对话（进阶篇）**
+### EF's Frequently Used Contextual Dialogues (Advanced) <ContentToggle>EF日常高频情景对话（进阶篇）</ContentToggle>
 
 ---
 
-#### **场景七：深入询问工作与通勤**
+#### Scene 7: In-depth inquiry into work and commute <ContentToggle>场景七：深入询问工作与通勤</ContentToggle>
 
 **A:** So, where do you work?  
 <ContentToggle>那么，你在哪里工作呢？</ContentToggle>
@@ -435,12 +417,9 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 **B:** I understand. Driving in the city can be stressful.  
 <ContentToggle>理解。在市区开车压力可能挺大的。</ContentToggle>
 
-**对话要点：**  
-<ContentToggle>询问工作地点和职位，讨论通勤方式，分享个人感受。</ContentToggle>
-
 ---
 
-#### **场景八：聊现居地与老家**
+#### Scene 8: Talking about current residence and hometown <ContentToggle>场景八：聊现居地与老家</ContentToggle>
 
 **A:** You said you're from Beijing, but where do you live in Shanghai?  
 <ContentToggle>你说你来自北京，但你现在住在上海哪里呢？</ContentToggle>
@@ -457,12 +436,9 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 **A:** Sometimes. I miss my friends and family there.  
 <ContentToggle>有时候会。我想念那里的朋友和家人。</ContentToggle>
 
-**对话要点：**  
-<ContentToggle>讨论现居地的特点，比较不同区域，表达对家乡的思念。</ContentToggle>
-
 ---
 
-#### **场景九：描述家乡的风景与美食**
+#### Scene Nine: Describe the scenery and food of your hometown. <ContentToggle>场景九：描述家乡的风景与美食</ContentToggle>
 
 **A:** Can you tell me about your hometown? What's it like?  
 <ContentToggle>能给我讲讲你的家乡吗？它是什么样的？</ContentToggle>
@@ -482,12 +458,9 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 **B:** You should! It's a great place for travel.  
 <ContentToggle>你应该去！那是个旅游的好地方。</ContentToggle>
 
-**对话要点：**  
-<ContentToggle>引导对方描述家乡，谈论自然风光和特色美食，表达兴趣和赞叹。</ContentToggle>
-
 ---
 
-#### **场景十：谈论英语学习习惯**
+#### Scene 10: Discussing English learning habits <ContentToggle>场景十：谈论英语学习习惯</ContentToggle>
 
 **A:** How long have you been studying at EF?  
 <ContentToggle>你在EF学习多久了？</ContentToggle>
@@ -506,19 +479,3 @@ One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirt
 
 **B:** Haha, it's never too late to start! Maybe we can be study partners.  
 <ContentToggle>哈哈，什么时候开始都不晚！也许我们可以成为学习伙伴。</ContentToggle>
-
----
-
-### 小贴士：
-
-- 活用“How about you?”： 这是一个万能句，可以轻松地把话题抛回给对方，让对话持续下去。
-
-- 表达感受： 在对话中加入像“That sounds lovely”, “My mouth is watering”这样的句子，会让你的英语听起来更自然、更地道。
-
-- 具体化： 提到地点时可以说出具体区域（如Pudong, Xuhui），提到食物时说出具体名字（如Guilin rice noodles），这样信息量更大，对话也更生动。
-
-- 保持积极： 多使用鼓励性和积极的语言，如“That's a good habit", "It's never too late to start"，这样能营造一个友好的交流氛围。
-
-- 替换关键词： 将对话中的地点、爱好、工作等换成你自己的信息，让它变得个性化。
-
-- 熟能生巧： 反复练习这些高频句型，直到你能不假思索地自然回应。
