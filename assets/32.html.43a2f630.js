@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bcd2839a","path":"/3500_vocabularies/32.html","title":"32. Happy Marriage Needs Fighting For \u5E78\u798F\u7684\u5A5A\u59FB\u9700\u8981\u4E89\u53D6","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768492568000},"filePathRelative":"3500_vocabularies/32.md"}');export{e as data};

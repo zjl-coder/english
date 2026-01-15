@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-405282cc","path":"/3500_vocabularies/17.html","title":"17. A New Farming Way \u65B0\u7684\u8015\u79CD\u65B9\u5F0F","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768492568000},"filePathRelative":"3500_vocabularies/17.md"}');export{e as data};

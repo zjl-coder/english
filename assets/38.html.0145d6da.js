@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-a8585c26","path":"/3500_vocabularies/38.html","title":"38. Strange Patent Applications \u5947\u602A\u7684\u4E13\u5229\u7533\u8BF7","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768177781000},"filePathRelative":"3500_vocabularies/38.md"}');export{t as data};

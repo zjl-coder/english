@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6e655b91","path":"/3500_vocabularies/23.html","title":"23. An Air Crash \u98DE\u673A\u5931\u4E8B","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768492568000},"filePathRelative":"3500_vocabularies/23.md"}');export{e as data};

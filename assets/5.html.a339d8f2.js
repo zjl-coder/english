@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4a92ca4b","path":"/3500_vocabularies/5.html","title":"5. The Great President \u4F1F\u5927\u7684\u603B\u7EDF","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768492568000},"filePathRelative":"3500_vocabularies/5.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c3a5e616","path":"/3500_vocabularies/30.html","title":"30. A Volcano Eruption \u706B\u5C71\u7206\u53D1","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768492568000},"filePathRelative":"3500_vocabularies/30.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7383e56e","path":"/3500_vocabularies/26.html","title":"26. Abstract Art \u62BD\u8C61\u827A\u672F","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768177781000},"filePathRelative":"3500_vocabularies/26.md"}');export{e as data};

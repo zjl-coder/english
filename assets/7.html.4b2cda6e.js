@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4dfc7b89","path":"/3500_vocabularies/7.html","title":"7. A Fair Competition \u516C\u5E73\u7684\u6BD4\u8D5B","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768492568000},"filePathRelative":"3500_vocabularies/7.md"}');export{e as data};
