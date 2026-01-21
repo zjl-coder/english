@@ -1,27 +1,19 @@
 # Planning a night out with friends
 
-- Achievements
-- certificate
-- latest feedback
-- teacher comments
-- accuracy
-- accurate
-- clarity
-- confidence
-- confident
-- expression
-- range
-- strengths
-- improvement
-- pronounced
-- continue
-- get your point across
-- South Africa
+## My English Learning Journal
+After my latest English lesson, I was eager to check my **latest feedback** and **teacher comments**. My teacher said that my biggest **achievements** these days are better **accuracy** in sentence structures and more **accurate** word choices. She also praised the **clarity** of my **expression** and the wide **range** of topics I can talk about, from **horror** movies that are too **terrible** to watch at night to sweet **romance** films and **tasty** food we discussed in role-plays.
+
+These **strengths** have given me a lot of **confidence**, and I feel more **confident** to **get my point across** in daily conversations now. My teacher also pointed out an area for **improvement**: my **pronounced** sounds of some words need more practice. She told me if I **continue** to work hard, I can get a nice **certificate** at the end of the course. By the way, we even talked about the time difference between China and **South Africa** in class, which was such a fun topic!
+<ContentToggle>
+我的英语学习日志
+
+最近一节英语课后，我迫不及待地查看了老师的反馈和评语。老师说我最近最大的进步是句子结构更加准确，用词也更加精准。她还称赞我表达清晰，话题范围也很广，从晚上不敢看的恐怖电影到甜蜜的爱情片，再到角色扮演游戏中我们讨论过的美食，她都能侃侃而谈。
+
+这些进步让我信心倍增，现在在日常对话中，我更有信心表达自己的观点了。老师也指出了我一个需要改进的地方：有些单词的发音需要多加练习。她告诉我，如果我继续努力，课程结束时就能拿到一张漂亮的证书。对了，我们课堂上还聊到了中国和南非的时差，真是个有趣的话题！
+</ContentToggle>
+
 - Johannesburg <ContentToggle>约翰内斯堡</ContentToggle>
-- horror
-- terrible
-- romance
-- Tasty
+
 
 ---
 
