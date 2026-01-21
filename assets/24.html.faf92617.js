@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-701a3430","path":"/3500_vocabularies/24.html","title":"24. An Amateur Journalist \u4E1A\u4F59\u8BB0\u8005","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1769039705000},"filePathRelative":"3500_vocabularies/24.md"}');export{a as data};

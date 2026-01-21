@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-ed187190","path":"/ef_lesson/planning_night_out/","title":"Planning a night out with friends","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768492568000},"filePathRelative":"ef_lesson/planning_night_out/index.md"}');export{e as data};

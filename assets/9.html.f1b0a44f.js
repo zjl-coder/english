@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-51662cc7","path":"/3500_vocabularies/9.html","title":"9. Wildlife Protection \u4FDD\u62A4\u91CE\u751F\u52A8\u690D\u7269","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768492568000},"filePathRelative":"3500_vocabularies/9.md"}');export{e as data};

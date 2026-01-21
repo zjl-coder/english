@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-b2956fe0","path":"/3500_vocabularies/35.html","title":"35. Study in America \u7559\u5B66\u7F8E\u56FD","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1768492568000},"filePathRelative":"3500_vocabularies/35.md"}');export{e as data};

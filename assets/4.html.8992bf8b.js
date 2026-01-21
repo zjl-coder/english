@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-48ddf1ac","path":"/3500_vocabularies/4.html","title":"4. A Horrible Earthquake \u53EF\u6015\u7684\u5730\u9707","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1769039705000},"filePathRelative":"3500_vocabularies/4.md"}');export{e as data};
