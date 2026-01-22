@@ -1,15 +1,27 @@
 # Planning a night out with friends
 
 ## My English Learning Journal
-After my latest English lesson, I was eager to check my **latest feedback** and **teacher comments**. My teacher said that my biggest **achievements** these days are better **accuracy** in sentence structures and more **accurate** word choices. She also praised the **clarity** of my **expression** and the wide **range** of topics I can talk about, from **horror** movies that are too **terrible** to watch at night to sweet **romance** films and **tasty** food we discussed in role-plays.
+After my latest English lesson, I was eager to check my **latest feedback** and **teacher comments**. 
+My teacher said that my biggest **achievements** these days are better **accuracy** in sentence structures and more **accurate** word choices. 
+She also praised the **clarity** of my **expression** and the wide **range** of topics I can talk about, 
+from **horror** movies that are too **terrible** to watch at night to sweet **romance** films and **tasty** food we discussed in role-plays.
 
-These **strengths** have given me a lot of **confidence**, and I feel more **confident** to **get my point across** in daily conversations now. My teacher also pointed out an area for **improvement**: my **pronounced** sounds of some words need more practice. She told me if I **continue** to work hard, I can get a nice **certificate** at the end of the course. By the way, we even talked about the time difference between China and **South Africa** in class, which was such a fun topic!
+These **strengths** have given me a lot of **confidence**, and I feel more **confident** to **get my point across** in daily conversations now. 
+My teacher also pointed out an area for **improvement**: my **pronounced** sounds of some words need more practice. 
+She told me if I **continue** to work hard, 
+I can get a nice **certificate** at the end of the course. By the way, we even talked about the time difference between China and **South Africa** in class, 
+which was such a fun topic!
 <ContentToggle>
 我的英语学习日志
 
-最近一节英语课后，我迫不及待地查看了老师的反馈和评语。老师说我最近最大的进步是句子结构更加准确，用词也更加精准。她还称赞我表达清晰，话题范围也很广，从晚上不敢看的恐怖电影到甜蜜的爱情片，再到角色扮演游戏中我们讨论过的美食，她都能侃侃而谈。
+最近一节英语课后，我迫不及待地查看了老师的反馈和评语。
+老师说我最近最大的进步是句子结构更加准确，用词也更加精准。
+她还称赞我表达清晰，话题范围也很广，从晚上不敢看的恐怖电影到甜蜜的爱情片，再到角色扮演游戏中我们讨论过的美食，她都能侃侃而谈。
 
-这些进步让我信心倍增，现在在日常对话中，我更有信心表达自己的观点了。老师也指出了我一个需要改进的地方：有些单词的发音需要多加练习。她告诉我，如果我继续努力，课程结束时就能拿到一张漂亮的证书。对了，我们课堂上还聊到了中国和南非的时差，真是个有趣的话题！
+这些进步让我信心倍增，现在在日常对话中，我更有信心表达自己的观点了。
+老师也指出了我一个需要改进的地方：有些单词的发音需要多加练习。
+她告诉我，如果我继续努力，课程结束时就能拿到一张漂亮的证书。
+对了，我们课堂上还聊到了中国和南非的时差，真是个有趣的话题！
 </ContentToggle>
 
 - Johannesburg <ContentToggle>约翰内斯堡</ContentToggle>
@@ -23,7 +35,14 @@ These **strengths** have given me a lot of **confidence**, and I feel more **con
 
 - plan a night out <ContentToggle>口语常用表达，指 “筹划夜间外出（如聚餐、逛街、看电影等休闲活动）”。</ContentToggle>
 
-- To improve your grammar, read English every day and pay attention to how sentences are formed. Practice writing short sentences and check them for mistakes. Learn from your errors and try not to repeat them. Speaking English regularly will also help you become more confident and accurate. <ContentToggle>想要提升语法水平，你需要每天阅读英文材料，留意句子的构成方式。练习写一些短句并检查其中的错误，从错误中吸取经验，尽量避免再犯。坚持开口说英语，还能帮你提升表达的自信度和准确度。</ContentToggle>
+---
+
+To improve your grammar, read English every day and pay attention to how sentences are formed. Practice writing short sentences and check them for mistakes. 
+Learn from your errors and try not to repeat them. Speaking English regularly will also help you become more confident and accurate. 
+<ContentToggle>
+想要提升语法水平，你需要每天阅读英文材料，留意句子的构成方式。
+练习写一些短句并检查其中的错误，从错误中吸取经验，尽量避免再犯。坚持开口说英语，还能帮你提升表达的自信度和准确度。
+</ContentToggle>
 
 ---
 
@@ -39,13 +58,22 @@ These **strengths** have given me a lot of **confidence**, and I feel more **con
 
 ---
 
-Hello! It's an honor to attend your class. My name is Archer. I’m from Shenzhen, a city in Guangdong Province, China. I have quite a few hobbies. I often listen to music to unwind, and I'm really into swimming, mountain climbing and trekking. Every now and then, I'll plan a self-driving tour to explore new places. When I stay at home and feel bored, I spend time on YouTube and TikTok. It's a pleasure to introduce myself to you. <ContentToggle>您好！很荣幸能来上您的课。我叫Archer，来自中国广东省深圳市。我有很多爱好。我经常听音乐放松身心，也很喜欢游泳、登山和徒步旅行。偶尔，我还会计划一次自驾游，探索新的地方。如果待在家里感到无聊，我就会看看YouTube和TikTok。很高兴能向您介绍我自己。</ContentToggle>
+Hello! It's an honor to attend your class. My name is Archer. I’m from Shenzhen, a city in Guangdong Province, China. I have quite a few hobbies. 
+I often listen to music to unwind, and I'm really into swimming, mountain climbing and trekking. 
+Every now and then, I'll plan a self-driving tour to explore new places. 
+When I stay at home and feel bored, I spend time on YouTube and TikTok. It's a pleasure to introduce myself to you. 
+<ContentToggle>
+您好！很荣幸能来上您的课。我叫Archer，来自中国广东省深圳市。我有很多爱好。
+我经常听音乐放松身心，也很喜欢游泳、登山和徒步旅行。偶尔，我还会计划一次自驾游，探索新的地方。
+如果待在家里感到无聊，我就会看看YouTube和TikTok。很高兴能向您介绍我自己。
+</ContentToggle>
 
 ---
 
 - Is my audio and video clear? Is the connection lagging?
 - Can you hear and see me properly? Is there any delay or freezing on my end?
 - How’s my sound and video quality? Is the internet acting up?
+
 <ContentToggle>请问我的声音和视频流畅吗？我的网络是否卡顿？</ContentToggle>
 
 ---
@@ -54,7 +82,8 @@ Hello! It's an honor to attend your class. My name is Archer. I’m from Shenzhe
 
 ---
 
-- Beautiful, Archer. Lovely to have you in the class. Archer, today's topic is entertainment, OK? <ContentToggle>真棒呀，Archer。很高兴你能来上课。Archer，我们今天的主题是娱乐，清楚了吗？（这里不是形容 “漂亮”，而是老师的口语化赞叹，类似中文的 “真棒呀”“很不错哦”；）</ContentToggle>
+- Beautiful, Archer. Lovely to have you in the class. Archer, today's topic is entertainment, OK? 
+<ContentToggle>真棒呀，Archer。很高兴你能来上课。Archer，我们今天的主题是娱乐，清楚了吗？（这里不是形容 “漂亮”，而是老师的口语化赞叹，类似中文的 “真棒呀”“很不错哦”；）</ContentToggle>
 
 - Thank you so much! 
 
@@ -75,11 +104,17 @@ Hello! It's an honor to attend your class. My name is Archer. I’m from Shenzhe
 
 - Does the picture on the screen have sound?
 
--  this is the key language. So you can go through stuff like the key language, OK? And then you can read it, and let me know if you have questions, OK? The first one. <ContentToggle>接下来这些是核心句型。你们可以浏览一遍这类核心句型，好吗？然后读一读，如果有疑问的话，随时告诉我，好吗？先从第一个开始。</ContentToggle>
+-  this is the key language. So you can go through stuff like the key language, OK? And then you can read it, and let me know if you have questions, OK? The first one. 
+<ContentToggle>
+接下来这些是核心句型。你们可以浏览一遍这类核心句型，好吗？然后读一读，如果有疑问的话，随时告诉我，好吗？先从第一个开始。
+</ContentToggle>
 
 ---
 
-- So, these are phrases that we can use for suggesting doing an activity, but also for responding, right? Responding positively, and responding negatively, right? And giving reasons for your response, OK? <ContentToggle>这些是我们可以用来提议活动的短语，同时也能用来回应提议，对吧？包括积极回应、消极回应，还要说明回应的理由，好吗？</ContentToggle>
+So, these are phrases that we can use for suggesting doing an activity, but also for responding, right? Responding positively, and responding negatively, right? And giving reasons for your response, OK? 
+<ContentToggle>
+这些是我们可以用来提议活动的短语，同时也能用来回应提议，对吧？包括积极回应、消极回应，还要说明回应的理由，好吗？
+</ContentToggle>
 
 - responding positively / negatively <ContentToggle>积极回应 / 消极回应</ContentToggle>
 
@@ -106,9 +141,16 @@ Hello! It's an honor to attend your class. My name is Archer. I’m from Shenzhe
  
 - Rank the order
 
-- Put the sentences in order that you would say them in a discussion. So, when you are having a discussion with someone about what to do tonight, yeah, what, like how would you put These phrases in the correct order.  <ContentToggle>要把这些句子按照实际对话时会用到的顺序排列起来。也就是说，当你和别人讨论今晚要做什么的时候，该怎么把这些短语按正确的顺序组织起来呢？(句中的 yeah, what, like 都是口语填充词，用于停顿和引导思路，翻译时整合为 “也就是说”，让语句更连贯。) </ContentToggle>
+- Put the sentences in order that you would say them in a discussion. So, when you are having a discussion with someone about what to do tonight, yeah, what, like how would you put These phrases in the correct order.  
+<ContentToggle>
+要把这些句子按照实际对话时会用到的顺序排列起来。也就是说，当你和别人讨论今晚要做什么的时候，该怎么把这些短语按正确的顺序组织起来呢？
+(句中的 yeah, what, like 都是口语填充词，用于停顿和引导思路，翻译时整合为 “也就是说”，让语句更连贯。) 
+</ContentToggle>
 
-- Hmm, it's like when you know. When you are thinking, sometimes you say hmm. <ContentToggle>就像当你思考的时候，有时候你会说“嗯”。(when you know 在这里不是 “当你知道的时候” 的意思，而是说话人在组织语言时的口头停顿词，类似我们中文里说 “就是…… 呃……”“你懂的……” 的语气，作用是让表达更自然，没有实际语义。)</ContentToggle>
+- Hmm, it's like when you know. When you are thinking, sometimes you say hmm. 
+<ContentToggle>
+就像当你思考的时候，有时候你会说“嗯”。(when you know 在这里不是 “当你知道的时候” 的意思，而是说话人在组织语言时的口头停顿词，类似我们中文里说 “就是…… 呃……”“你懂的……” 的语气，作用是让表达更自然，没有实际语义。)
+</ContentToggle>
 
 - Classroom explanation version (fitting your previous English class context) <ContentToggle>课堂讲解版（贴合你之前的英语课语境）</ContentToggle>
     - Now, it’s like when you’re thinking—you know, when you’re trying to come up with an answer or organize your ideas—sometimes you say filler words like “hmm” “um”, “well”, or “let me see” to buy yourself a little time. <ContentToggle>其实啊，这就像你思考的时候 —— 你懂的，就是你努力想答案或者梳理思路的时候 —— 有时候你会说一些像 “嗯”“那个”“让我想想” 这样的填充词，给自己争取一点时间。</ContentToggle>
@@ -156,7 +198,10 @@ Hello! It's an honor to attend your class. My name is Archer. I’m from Shenzhe
 
 ---
 
-- Well, OK, you understood the the activity, just one correction that I have for you. So, instead of saying it has a little far, it should be it is a little far, OK? Not it has a little far. <ContentToggle>好的，看来你已经明白这个活动的要求了。我要给你指正一个小错误 —— 你刚才说的 it has a little far 是不对的，正确的说法应该是 it is a little far，知道了吗？不是 it has a little far 。</ContentToggle>
+Well, OK, you understood the the activity, just one correction that I have for you. So, instead of saying it has a little far, it should be it is a little far, OK? Not it has a little far. 
+<ContentToggle>
+好的，看来你已经明白这个活动的要求了。我要给你指正一个小错误 —— 你刚才说的 it has a little far 是不对的，正确的说法应该是 it is a little far，知道了吗？不是 it has a little far 。
+</ContentToggle>
 
 - Because they weren't cooked. <ContentToggle>因为它们没煮熟。</ContentToggle>
 - Because these sushi are raw. <ContentToggle>因为这些寿司是生的</ContentToggle>
@@ -165,7 +210,16 @@ Hello! It's an honor to attend your class. My name is Archer. I’m from Shenzhe
 - Has our dialogue session ended? <ContentToggle>我们的对话活动结束了吗</ContentToggle>
 - Has our dialogue event concluded? <ContentToggle>我们的对话活动完结了吗</ContentToggle>
 
-- We are done with the role play. Yes, so you did, yeah you did well. So just you can just practice some adjectives to describe food, OK? For example, tasty is an adjective to describe food, delicious is another adjective that we can use to describe food. ok? ok? <ContentToggle>我们的角色扮演就到这里啦。没错，你表现得很不错。接下来你可以多练习一些用来描述食物的形容词，好吗？比如说，tasty 是一个描述食物的形容词，delicious 是另一个我们可以用来形容食物的词。明白了吧？明白了吗？</ContentToggle>
+---
+
+We are done with the role play. Yes, so you did, yeah you did well. 
+So just you can just practice some adjectives to describe food, OK? 
+For example, tasty is an adjective to describe food, delicious is another adjective that we can use to describe food. ok? ok? 
+<ContentToggle>
+我们的角色扮演就到这里啦。没错，你表现得很不错。
+接下来你可以多练习一些用来描述食物的形容词，好吗？
+比如说，tasty 是一个描述食物的形容词，delicious 是另一个我们可以用来形容食物的词。明白了吧？明白了吗？
+</ContentToggle>
 
 - So, tasty means the flavor is enjoyable, the flavor of the food is enjoyable.  <ContentToggle>所以啊，tasty 的意思就是食物的味道很可口，就是食物的味道很可口。 </ContentToggle>
 
@@ -187,7 +241,10 @@ Hello! It's an honor to attend your class. My name is Archer. I’m from Shenzhe
 
 ---
 
-- Right, Archer. We are done. ha ha ha. We are done with today's lesson. It was so nice to talk to you. I think you did amazing today. Just, yeah, you didn't make a lot of mistakes, right? Just practice this correction, OK? <ContentToggle>好啦，Archer。我们今天就到这儿啦，哈哈。今天的课结束咯。跟你聊天特别开心。我觉得你今天表现超棒的。你看，你没犯什么错，对吧？就把这次订正的内容再练练，好吗？</ContentToggle>
+Right, Archer. We are done. ha ha ha. We are done with today's lesson. It was so nice to talk to you. I think you did amazing today. Just, yeah, you didn't make a lot of mistakes, right? Just practice this correction, OK? 
+<ContentToggle>
+好啦，Archer。我们今天就到这儿啦，哈哈。今天的课结束咯。跟你聊天特别开心。我觉得你今天表现超棒的。你看，你没犯什么错，对吧？就把这次订正的内容再练练，好吗？
+</ContentToggle>
 
 - A: Hey, what time is it? It’s night already, isn’t it? Is it 11:00 PM or midnight in China?
 - B: Wait, hold on.
