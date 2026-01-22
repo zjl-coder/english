@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-3e9daa2d","path":"/3500_vocabularies/16.html","title":"16. A Woman Doctor - Lina \u5973\u533B\u751F\u4E3D\u5A1C","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1769039705000},"filePathRelative":"3500_vocabularies/16.md"}');export{a as data};

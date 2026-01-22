@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3b33f8ef","path":"/3500_vocabularies/14.html","title":"14. Explore MKII \u63A2\u6D4BMKII\u884C\u661F","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1769098251000},"filePathRelative":"3500_vocabularies/14.md"}');export{e as data};

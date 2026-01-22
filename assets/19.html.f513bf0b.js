@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-43bc340a","path":"/3500_vocabularies/19.html","title":"19. A Misunderstanding \u4E00\u573A\u8BEF\u4F1A","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1769039705000},"filePathRelative":"3500_vocabularies/19.md"}');export{e as data};

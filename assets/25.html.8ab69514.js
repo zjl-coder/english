@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-71cf0ccf","path":"/3500_vocabularies/25.html","title":"25. First Aid \u6025\u6551","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1769039705000},"filePathRelative":"3500_vocabularies/25.md"}');export{e as data};

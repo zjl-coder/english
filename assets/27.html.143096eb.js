@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7538be0d","path":"/3500_vocabularies/27.html","title":"27. A Russian Poem \u4FC4\u56FD\u7AE5\u8C23","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1769098251000},"filePathRelative":"3500_vocabularies/27.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-4fb15428","path":"/3500_vocabularies/8.html","title":"8. Computers \u7535\u8111","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1769039705000},"filePathRelative":"3500_vocabularies/8.md"}');export{e as data};

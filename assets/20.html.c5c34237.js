@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-6946d1b4","path":"/3500_vocabularies/20.html","title":"20. A Unique Theme Park \u72EC\u4E00\u65E0\u4E8C\u7684\u4E3B\u9898\u516C\u56ED","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1769039705000},"filePathRelative":"3500_vocabularies/20.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-13bd61c7","path":"/3500_vocabularies/","title":"3500 vocabularies","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1769039705000},"filePathRelative":"3500_vocabularies/index.md"}');export{e as data};
