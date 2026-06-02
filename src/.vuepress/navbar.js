@@ -16,6 +16,10 @@ const navbar = [
     link: '/predicate/',
   },
   {
+    text: 'Face Blindness',
+    link: '/face_blindness/',
+  },
+  {
     text: 'setting',
     link: '/setting/',
   },
