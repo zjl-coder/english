@@ -6,6 +6,18 @@ const face_blindness = {
       text: 'EX-',
       link: '/face_blindness/ex/',
     },
+    {
+      text: 'Deserve',
+      link: '/face_blindness/deserve/',
+    },
+    {
+      text: 'Plain',
+      link: '/face_blindness/plain/',
+    },
+    {
+      text: 'Att-',
+      link: '/face_blindness/att/',
+    },
   ],
 };
 
