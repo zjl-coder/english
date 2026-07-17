@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-4d1e64e8","path":"/face_blindness/","title":"\u8138\u76F2\u8BCD\u6C47","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1780410629000},"filePathRelative":"face_blindness/index.md"}');export{e as data};

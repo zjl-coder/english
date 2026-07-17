@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4ec805c2","path":"/ef_lesson/describing_someone/","title":"Describing someone you know","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1784300894000},"filePathRelative":"ef_lesson/describing_someone/index.md"}');export{e as data};
